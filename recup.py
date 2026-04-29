@@ -14,7 +14,6 @@ finaldesemana = ["Dormir","Assitir","Estudar"]
 
 # 3) (1,0 p) Crie uma condição que verifica se sua nota da prova é maior que a média 1,8.
 media = 1.8
-
 if nota_prova > 1.8:
     print("A nota esta acima da média.")
 elif nota_prova < 1.8:
